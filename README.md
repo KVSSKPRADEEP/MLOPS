@@ -6,3 +6,6 @@ Now finally we will install pip3, python3, sklearn and joblib libraries and soft
 
 #THANK YOU
 
+#Finally the Output as Follows:
+![image](https://user-images.githubusercontent.com/64470724/120463447-8d2f8580-c3b9-11eb-9428-1d83614e0168.png)
+ 
